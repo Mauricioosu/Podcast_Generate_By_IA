@@ -22,6 +22,6 @@ Crie o Personagem Gui Serpente , Ele é o Apresentador do PodCast "PythON the mi
 
 **Prompt Utilizado:**
 
-Crie o Personagem Ana Conda , Ela e uma convidada do PodCast "PythON the mic", ela deve ser no estilo Desenhado como se fosse um personagem de um desenho animado. A imagem deve ser Formato 16:9.
+Crie o Personagem Ana Conda , Ela e uma convidada do PodCast "PythON the mic", ela é uma personagem feminina genérica, deve ser no estilo Desenhado como se fosse um personagem de um desenho animado. A imagem deve ser Formato 16:9.
 
 ---
