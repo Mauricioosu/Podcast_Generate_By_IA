@@ -11,7 +11,7 @@ Repositório com os prompts e arquivos utilizados na criação de um Podcast com
 > *Criação de imagens*.
 
 **ElevenLabs**
-> *trancrisão de texto para audio*
+> *Trancrisão de texto para audio*
 
 **CapCut**
 > *Edição de video*.
