@@ -1,6 +1,5 @@
 # 🎙️ Podcast Gerado por IAs
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![YouTube](https://img.shields.io/badge/YouTube-Episódio%20Disponível-red?logo=youtube)](https://www.youtube.com/embed/OilSBrB9q6M?si=NUYrmStWGRyBMjFB)
 [![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)]()
 
